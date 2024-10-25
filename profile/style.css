@@ -2,7 +2,7 @@
 
     /* General Styles */
     body {
-      zoom: 2.8;
+      zoom: 3;
       font-family: serif;
       background: linear-gradient(90deg, #feffa1, #ffc2c2);
       color: #333;
@@ -15,7 +15,7 @@
     }
 
     .container {
-      height: 800px;
+      height: ;
       background-color: none;
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
